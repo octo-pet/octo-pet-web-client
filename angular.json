@@ -28,9 +28,16 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/material-dashboard/assets/css/nucleo-icons.css",
+              "node_modules/material-dashboard/assets/css/nucleo-svg.css",
+              "node_modules/material-dashboard/assets/css/material-dashboard.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.js",
+              "node_modules/material-dashboard/assets/js/material-dashboard.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -96,9 +103,12 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.js"
+            ]
           }
         }
       }
