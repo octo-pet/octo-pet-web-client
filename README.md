@@ -1,6 +1,6 @@
-# Octo-Pet (Web Client)
+# Octo Pet Web Client
 
-Octo-Pet Web Client is a Graphical User Interface (GUI) for web browsers developed as a Rich Internet Application (RIA) using [Angular](https://angular.io/).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
 ## Development server
 
